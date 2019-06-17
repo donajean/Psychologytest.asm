@@ -36,7 +36,7 @@ U     db 'Choose a letter: $'
 q5    db 'What would you rather sit on in your iggy?$'
 V     db 'a.Pink Beanbag Chair$'
 W     db 'b.Orange inflatable Sofa$'
-X     db 'Double dunk chair $'
+X     db 'c.Double dunk chair $'
 Y     db 'Choose a letter: $'
    
 q6    db 'What is your perfect type of igloo music?$'
